@@ -14,3 +14,19 @@ body
     font-family: Arial, Helvetica, sans-serif;
     color: darkblue;
 }
+
+#parrafo
+{
+    text-align: left;
+    margin-left: 30px;
+    font-size: large;
+
+}
+
+#lista
+{
+    text-align: left;
+    margin-left: 30px;
+    font-size: medium;
+
+}
